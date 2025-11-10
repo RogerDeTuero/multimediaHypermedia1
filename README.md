@@ -16,7 +16,9 @@ I then list several portfolios, most of winch are, to be fair, irrelevant. Howev
 -Visual Design:
 For this CV I decided not to use flashy colors. I initially went for a minimalist design, but as I messed arround with HTML I ended up using a slightly more colorful palette.
 
-The sections are divided in shades of white. This is a design choice I've seen across many examples of CV, and is meant to improve readability. I chose to have a more eye-catchy but still professional looking header with a blue color gradient, and to footnote the document with a darker blue.
+The sections are divided in shades of white. This is a design choice I've seen across many examples of CV, and is meant to improve readability. I chose to have a more eye-catchy but still professional looking header with a blue color gradient, and to footnote the document with a darker blue. It consists of a picture of myself, my name, a list of skills and an interactable content list.
+
+I tried to keep long text paragraphs to a minimum. I wanted to have the "about me" section at the start, because once that's read the rest of the document looks very clean with clear sections and efficient delivery of information.
 
 Each portfoliio and skill set is inside a white frame, winch makes them pop from the rest of the document. Furthermore, the buttons containing links to the portfolios are in a saturated purple-ish blue, winch makes them pop even more and look pressable. The reason I chose so many blue (or at least blue-adjacent) colors is that color makes the document more visually appealing, color consistency makes it look more professional and blue happens to be a common color in professional enviroments.
 
