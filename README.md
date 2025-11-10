@@ -1,8 +1,8 @@
 # multimediaHypermedia1
-- User Persona:
+User Persona:
 Employers looking for a computer science stuedent who will appreciate an afinity towards artistic disciplines.
 
-- Information Architecture:
+Information Architecture:
 On the header I have a picture, my name and the following text: "Programmer | Designer | Illustrator | Music Composer | Bassist | Game Developer". Although I might have gone a bit too overboard with the self-given titles, the idea is to give readers an idea of who I am without having to read too much text, and hopefully catching their eye.
 
 Next I have an "about me" section, where I explain more in depth who I am and what I can bring to the table. I bring up some of my skills outside of my formal education that are not necesseraly rellevant to any job I may apply to, but the point is to show that I am adaptable and multifaceted.
@@ -13,7 +13,7 @@ Next I list my provious work expirience as a waiter. Since it's not field-releva
 
 I then list several portfolios, most of winch are, to be fair, irrelevant. However I provide it as proof that I am not bluffing with my claims. I close providing an email for contact.
 
-- Visual Design:
+Visual Design:
 For this CV I decided not to use flashy colors. I initially went for a minimalist design, but as I messed arround with HTML I ended up using a slightly more colorful palette.
 
 The sections are divided in shades of white. This is a design choice I've seen across many examples of CV, and is meant to improve readability. I chose to have a more eye-catchy but still professional looking header with a blue color gradient, and to footnote the document with a darker blue.
